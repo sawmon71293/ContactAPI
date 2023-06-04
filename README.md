@@ -83,13 +83,6 @@ Install this project using the following extensions with VS Code:
 - dotnet run
 
 
-
-<!-- AUTHORS -->
-
-### Live <a name="live"></a>
-
-This app is yet to be deployed.
-
 ## 👥 Author <a name="authors"></a>
 
 👤 **Saw Mon Han**
